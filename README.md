@@ -1,12 +1,11 @@
 # [Start Bootstrap - Simple Sidebar](https://startbootstrap.com/template-overviews/simple-sidebar/)
+ #this is rtl version
 
 [Simple Sidebar](http://startbootstrap.com/template-overviews/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
+this version not have perview but still Works correctly
 
-[![Simple Sidebar Preview](https://startbootstrap.com/assets/img/templates/simple-sidebar.jpg)](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)**
 
 ## Status
 
